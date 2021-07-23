@@ -15,8 +15,8 @@
         <a href="#" target="_blank">E-Mail</a> •
         <a href="#" target="_blank">Instagram</a> •
         <a href="#" target="_blank">Linkedin</a> •
-        <a href="https://youtube.com/c/ZalfaOne" target="_blank">ZalfaOne (YT Channel)</a> •
-        <a href="https://youtube.com/c/STech" target="_blank">STech (YT Channel)</a>
+        <a href="https://www.youtube.com/channel/UCk5RgFiEPd3pzcQjOv7_KMA" target="_blank">ZalfaOne (YT Channel)</a> •
+        <a href="https://www.youtube.com/channel/UCbOGaRQ4UDo60I51otJg-Lw" target="_blank">STech (YT Channel)</a>
         </samp>
     </p>
     <h2></h2>
