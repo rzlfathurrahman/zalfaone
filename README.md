@@ -1,8 +1,7 @@
 <p align="left"><strong><samp>「</samp></strong></p><p align="center">
     <samp>
-    I have not failed.<br> 
-    I've just found 10,000 ways that won't work.<br><br>
-    ~ Thomas A. Edison ~
+        A strong person is he who is able to rise from <strong>despair and conquer <strong>fear<strong><br>
+    ~ Me ~
     </samp>
     <br>
 </p><p align="right"><strong><samp>」</samp></strong></p>
