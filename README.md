@@ -12,8 +12,8 @@
     <p align="center">
         <samp>
         <a href="#" target="_blank">E-Mail</a> •
-        <a href="#" target="_blank">Instagram</a> •
-        <a href="#" target="_blank">Linkedin</a> •
+        <a href="https://www.instagram.com/rfathurrxx_/" target="_blank">Instagram</a> •
+        <a href="https://www.linkedin.com/in/rizal-fathur-rahman-08966b228/" target="_blank">Linkedin</a> •
         <a href="https://www.youtube.com/channel/UCk5RgFiEPd3pzcQjOv7_KMA" target="_blank">ZalfaOne (YT Channel)</a> •
         <a href="https://www.youtube.com/channel/UCbOGaRQ4UDo60I51otJg-Lw" target="_blank">STech (YT Channel)</a>
         </samp>
