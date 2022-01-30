@@ -1,6 +1,6 @@
 <p align="left"><strong><samp>「</samp></strong></p><p align="center">
     <samp>
-        A strong person is he who is able to rise from <strong>despair and conquer <strong>fear<strong><br>
+        A strong person is he/she who is able to rise from <strong>despair and overcome <strong>fear<strong><br>
     ~ Me ~
     </samp>
     <br>
