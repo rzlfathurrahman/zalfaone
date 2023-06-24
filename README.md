@@ -1,6 +1,6 @@
 <p align="left"><strong><samp>「</samp></strong></p><p align="center">
     <samp>
-       Rise from <strong>despair</strong> and overcome <strong>fear</strong><br>
+        No <strong>Sacrifice</strong>, No <strong>Victory</strong><br>
     ~ Nobody ~
     </samp>
     <br>
