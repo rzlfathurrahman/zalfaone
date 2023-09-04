@@ -1,7 +1,7 @@
 <p align="left"><strong><samp>「</samp></strong></p><p align="center">
     <samp>
         Do the thing you think you cannot do <br>
-    ~ Nobody ~
+    ~ Eleanor Roosevelt ~
     </samp>
     <br>
 </p><p align="right"><strong><samp>」</samp></strong></p>
