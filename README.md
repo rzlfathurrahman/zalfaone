@@ -1,6 +1,6 @@
 <p align="left"><strong><samp>「</samp></strong></p><p align="center">
     <samp>
-        No <strong>Sacrifice</strong>, No <strong>Victory</strong><br>
+        Do the thing you think you cannot do <br>
     ~ Nobody ~
     </samp>
     <br>
